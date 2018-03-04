@@ -11,4 +11,21 @@ import scrapy
 class BileiSpiderItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
-    pass
+    ico_icon = scrapy.Field()
+    ico_name = scrapy.Field()
+    ico_category = scrapy.Field()
+    ico_description = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+    # ico_category = scrapy.Field()
+
